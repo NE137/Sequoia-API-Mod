@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Forge1.12.2
+Implementation-Version: 1.0
+Specification-Vendor: Timon
+Specification-Title: War Counter
+Implementation-Timestamp: 2023-04-15T19:16:34+0200
+Specification-Version: 1
+Implementation-Vendor: Timon
+

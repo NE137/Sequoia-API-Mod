@@ -1,0 +1,16 @@
+[
+{
+  "modid": "war",
+  "name": "War Counter",
+  "description": "A mod that counts complete wars",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Timon"],
+  "credits": "My sanity",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
